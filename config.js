@@ -5,7 +5,7 @@ global.mode = 'publik'
 global.packName = 'Self Bot By'
 global.authorName = 'nat'
 // global.thumb = fs.readFileSync('./thumb.jpeg')
-global.ownerNumber = ['0', '+62 877-7456-95315', '+62 877-7456-95317', '+62 813-8283-6249']
+global.ownerNumber = ['6285777451314']
 global.thumbnailUrl = ['https://telegra.ph/file/69d52042b39386c222151.jpg', 'https://telegra.ph/file/7079e0b324406d3d7543c.jpg', 'https://telegra.ph/file/3a3edf8916e3239522a34.jpg']
 // global.db = JSON.parse(fs.readFileSync('./db.json'))
 
