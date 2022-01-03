@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.prefix = '+'
-global.mode = 'publik'
+global.mode = 'public'
 global.packName = 'Self Bot By'
 global.authorName = 'nat'
 // global.thumb = fs.readFileSync('./thumb.jpeg')
